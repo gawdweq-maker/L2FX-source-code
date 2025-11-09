@@ -1,0 +1,1 @@
+DEFAULT_CORE_URL = 'http://3.73.76.149:5001'
